@@ -11,5 +11,10 @@
     "spryker/product-review-gui": "^1.0.3",
     "spryker/product-review-search": "^1.2.1",
     "spryker/product-review-storage": "^1.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
