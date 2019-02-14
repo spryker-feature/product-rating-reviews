@@ -9,7 +9,7 @@
     "php": ">=7.1",
     "spryker-shop/product-review-widget": "^1.2.1",
     "spryker/product-review": "^2.0.1",
-    "spryker/product-review-gui": "^1.0.3",
+    "spryker/product-review-gui": "^1.1.0",
     "spryker/product-review-search": "^1.2.1",
     "spryker/product-review-storage": "^1.1.0"
   },
