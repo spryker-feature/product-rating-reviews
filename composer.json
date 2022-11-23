@@ -6,16 +6,16 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/product-review-widget": "^1.13.0",
-        "spryker/product-review": "^2.8.0",
-        "spryker/product-review-gui": "^1.3.0",
-        "spryker/product-review-search": "^1.5.0",
-        "spryker/product-review-storage": "^1.4.0"
+        "spryker/product-review": "^2.9.0",
+        "spryker/product-review-gui": "^1.4.0",
+        "spryker/product-review-search": "^1.7.0",
+        "spryker/product-review-storage": "^1.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
