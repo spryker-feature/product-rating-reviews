@@ -8,14 +8,14 @@
     "require": {
         "php": ">=8.0",
         "spryker-shop/product-review-widget": "^1.14.0",
-        "spryker/product-review": "^2.9.0",
-        "spryker/product-review-gui": "^1.4.0",
-        "spryker/product-review-search": "^1.7.0",
+        "spryker/product-review": "^2.11.0",
+        "spryker/product-review-gui": "^1.6.0",
+        "spryker/product-review-search": "^1.9.0",
         "spryker/product-review-storage": "^1.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     }
 }
