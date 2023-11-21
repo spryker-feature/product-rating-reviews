@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/product-review-widget": "^1.14.0",
+        "spryker-shop/product-review-widget": "^1.15.0",
         "spryker/product-review": "^2.11.0",
         "spryker/product-review-gui": "^1.6.0",
         "spryker/product-review-search": "^1.9.0",
