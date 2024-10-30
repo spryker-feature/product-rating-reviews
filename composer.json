@@ -10,8 +10,8 @@
         "spryker-shop/product-review-widget": "^1.16.0",
         "spryker/product-review": "^2.12.0",
         "spryker/product-review-gui": "^1.6.0",
-        "spryker/product-review-search": "^1.9.0",
-        "spryker/product-review-storage": "^1.5.0"
+        "spryker/product-review-search": "^1.11.0",
+        "spryker/product-review-storage": "^1.6.0"
     },
     "extra": {
         "branch-alias": {
